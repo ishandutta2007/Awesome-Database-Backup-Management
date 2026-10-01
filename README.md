@@ -46,9 +46,9 @@ The table below outlines enterprise SaaS and commercial platforms, sorted by **C
 
 ## 🛠️ Production Open-Source GitHub Repositories
 
-Below is a curated collection of production-proven open-source tools for database backup, point-in-time recovery, and storage snapshotting. Sorted by **GitHub Star Count** (descending).
+Below is a curated collection of production-proven open-source tools for database backup, point-in-time recovery, and storage snapshotting. Sorted by **GitHub Stars_Count** (descending).
 
-| Project & Repository | GitHub Stars | Supported Databases | Key Features & Use Cases |
+| Project & Repository | GitHub_Stars | Supported Databases | Key Features & Use Cases |
 | :--- | :--- | :--- | :--- |
 | **[restic/restic](https://github.com/restic/restic)** 🔒 | [<img src="https://img.shields.io/github/stars/restic/restic?style=social&color=white" alt="restic Stars"/>](https://github.com/restic/restic/stargazers) | General File / Database Dumps | Secure, fast, deduplicated backup program with AES-256 encryption. Supports S3, SFTP, MinIO, and local targets. |
 | **[duplicati/duplicati](https://github.com/duplicati/duplicati)** 🌐 | [<img src="https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white" alt="duplicati Stars"/>](https://github.com/duplicati/duplicati/stargazers) | Database Dumps / Files | Free backup client for storing encrypted, incremental, compressed database dumps on cloud storage services. |
@@ -108,3 +108,12 @@ Thank you for exploring the **Awesome Database Backup Management** repository! I
 ## 📜 Disclaimer
 
 *This list is community-curated for informational and educational purposes. All product names, logos, and brands are property of their respective owners.*
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Database-Backup-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Database-Backup-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Database-Backup-Management_growth.svg">
+  </picture>
+</a>
